@@ -1,0 +1,37 @@
+<mat-toolbar>
+        <span>Tarmac Members</span>
+        <span class="spacer"></span>
+        <button id ="add" mat-fab color="primary" aria-label="Search button" (click)="addorEditNewMember(null,$event)">
+            <mat-icon>add</mat-icon>
+        </button>
+</mat-toolbar>
+<div class="listContainer">
+    <div class="searchContainer">
+        <mat-form-field class="filterInput">
+            <input [(ngModel)]="search" matInput placeholder="Filter">
+        </mat-form-field>
+        <button mat-fab color="primary" aria-label="Search button" (click)="filterMembers()">
+            <mat-icon>filter_list</mat-icon>
+        </button>
+    </div>
+    <mat-grid-list [cols]="columns">
+        <mat-grid-tile *ngFor="let member of page?.content" (click)="addorEditNewMember(member,$event)">
+    
+            <div class="imageContainer">
+                <img mat-card-image [src]="member.picture_url" onError="this.src='assets/images/profile.jpeg';" alt="Photo of member">
+                <div class="after">
+                    <div class="info">
+                        <p>{{member.name}}</p>
+                        <p><strong>{{member.role}}</strong></p>
+                        <p>{{member.city}}</p>
+                    </div>
+                </div>
+            </div>
+    
+        </mat-grid-tile>
+    </mat-grid-list>
+</div>
+<div class="paginationContainer">
+    <mat-paginator fixed [length]="membersLength" [pageSize]="pageSize" (page)="paginate($event)">
+    </mat-paginator>
+</div>

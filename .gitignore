@@ -1,0 +1,58 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+Frontend/dist
+Frontend/tmp
+Frontend/out-tsc
+# Only exists if Bazel was run
+Frontend/bazel-out
+
+# dependencies
+Frontend/node_modules
+
+# IDEs and editors
+Backend/target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+/Backend/mwnw
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+npm-debug.log
+yarn-error.log
+testem.log
+/typings
+
+# System Files
+.DS_Store
+Thumbs.db
+Backend/mvnw
+Backend/mvnw.cmd
+Backend/.mvn/wrapper/maven-wrapper.properties
+Backend/.mvn/wrapper/maven-wrapper.jar
+Backend/.mvn/wrapper/MavenWrapperDownloader.java
+Frontend/.editorconfig
+Frontend/package-lock.json
+Frontend/src/assets/.gitkeep
+Frontend/.vscode/*
+Frontend/.history/*

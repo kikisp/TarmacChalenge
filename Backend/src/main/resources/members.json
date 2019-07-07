@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Alvaro Scuccimarra",
+    "role": "Developer",
+    "city": "Montevideo",
+    "picture_url": "https://tarmac.io/assets/members/alvaro-scuccimarra.png"
+  },
+  {
+    "name": "Andres Segurola",
+    "role": "Developer",
+    "city": "Montevideo",
+    "picture_url": "https://tarmac.io/assets/members/andres-segurola.png"
+  },
+  {
+    "name": "Anthony Schmidt",
+    "role": "Founder",
+    "city": "Minnesota",
+    "picture_url": "https://tarmac.io/assets/members/anthony-schmidt.png"
+  },
+  {
+    "name": "Bob Dow",
+    "role": "VP of Sales",
+    "city": "Minnesota",
+    "picture_url": "https://tarmac.io/assets/members/bob-dow.png"
+  },
+  {
+    "name": "Brent Kastner",
+    "role": "CTO",
+    "city": "Minnesota",
+    "picture_url": "https://tarmac.io/assets/members/brent-kastner.png"
+  },
+  {
+    "name": "Cecilia Marcora",
+    "role": "Developer",
+    "city": "Montevideo",
+    "picture_url": "https://tarmac.io/assets/members/cecilia-marcora.png"
+  },
+  {
+    "name": "Damian Arrillaga",
+    "role": "Developer",
+    "city": "Montevideo",
+    "picture_url": "https://tarmac.io/assets/members/damian-arrillaga.png"
+  },
+  {
+    "name": "Darko Klincarski",
+    "role": "DevOps",
+    "city": "Macedonia",
+    "picture_url": "https://tarmac.io/assets/members/darko-klincarski.png"
+  },
+  {
+    "name": "Diego Pedemonte",
+    "role": "Developer",
+    "city": "Montevideo",
+    "picture_url": "https://tarmac.io/assets/members/diego-pedemonte.png"
+  },
+  {
+    "name": "Federico Zagarzazu",
+    "role": "Developer",
+    "city": "Montevideo",
+    "picture_url": "https://tarmac.io/assets/members/federico-zagarzazu.png"
+  },
+  {
+    "name": "Fernando Ramos",
+    "role": "Developer",
+    "city": "Montevideo",
+    "picture_url": "https://tarmac.io/assets/members/fernando-ramos.png"
+  },
+  {
+    "name": "Fisnik Mela",
+    "role": "Developer",
+    "city": "Macedonia",
+    "picture_url": "https://tarmac.io/assets/members/fisnik-mela.png"
+  },
+  {
+    "name": "Gabriel Barbatto",
+    "role": "Developer",
+    "city": "Montevideo",
+    "picture_url": "https://tarmac.io/assets/members/gabriel-barbatto.png"
+  },
+  {
+    "name": "Gabriel Osorio",
+    "role": "Developer",
+    "city": "Montevideo",
+    "picture_url": "https://tarmac.io/assets/members/gabriel-osorio.png"
+  },
+  {
+    "name": "Gonzalo Melgar",
+    "role": "Developer",
+    "city": "Montevideo",
+    "picture_url": "https://tarmac.io/assets/members/gonzalo-melgar.png"
+  },
+  {
+    "name": "Gonzalo Robaina",
+    "role": "Developer",
+    "city": "Montevideo",
+    "picture_url": "https://tarmac.io/assets/members/gonzalo-robaina.png"
+  },
+  {
+    "name": "Ignacio Facello",
+    "role": "Developer",
+    "city": "Montevideo",
+    "picture_url": "https://tarmac.io/assets/members/ignacio-facello.png"
+  },
+  {
+    "name": "Juan Olivera",
+    "role": "Developer",
+    "city": "Montevideo",
+    "picture_url": "https://tarmac.io/assets/members/juan-olivera.png"
+  },
+  {
+    "name": "Juan Peon",
+    "role": "Developer",
+    "city": "Montevideo",
+    "picture_url": "https://tarmac.io/assets/members/juan-peon.png"
+  },
+  {
+    "name": "Juan Rodriguez",
+    "role": "Developer",
+    "city": "Montevideo",
+    "picture_url": "https://tarmac.io/assets/members/juan-rodriguez.png"
+  },
+  {
+    "name": "Julio Pintos",
+    "role": "Developer",
+    "city": "Montevideo",
+    "picture_url": "https://tarmac.io/assets/members/julio-pintos.png"
+  },
+  {
+    "name": "Magdalena Ezeiza",
+    "role": "Finance Manager",
+    "city": "Montevideo",
+    "picture_url": "https://tarmac.io/assets/members/magdalena-ezeiza.png"
+  },
+  {
+    "name": "Marcelo Bevegni",
+    "role": "Operations",
+    "city": "Montevideo",
+    "picture_url": "https://tarmac.io/assets/members/marcelo-bevegni.png"
+  },
+  {
+    "name": "Mauricio Pinatares",
+    "role": "Developer",
+    "city": "Montevideo",
+    "picture_url": "https://tarmac.io/assets/members/mauricio-pinatares.png"
+  },
+  {
+    "name": "Mauricio Souto",
+    "role": "Developer",
+    "city": "Montevideo",
+    "picture_url": "https://tarmac.io/assets/members/mauricio-souto.png"
+  },
+  {
+    "name": "Mitch Bain",
+    "role": "Director or Partnerships",
+    "city": "Minnesota",
+    "picture_url": "https://tarmac.io/assets/members/mitch-bain.png"
+  },
+  {
+    "name": "Pablo Caviglia",
+    "role": "Developer",
+    "city": "Montevideo",
+    "picture_url": "https://tarmac.io/assets/members/pablo-caviglia.png"
+  },
+  {
+    "name": "Pablo Monfort",
+    "role": "Developer",
+    "city": "Montevideo",
+    "picture_url": "https://tarmac.io/assets/members/pablo-monfort.png"
+  },
+  {
+    "name": "Pablo Pazos",
+    "role": "Developer",
+    "city": "Montevideo",
+    "picture_url": "https://tarmac.io/assets/members/pablo-pazos.png"
+  },
+  {
+    "name": "Pedro Neyeloff",
+    "role": "Developer",
+    "city": "Montevideo",
+    "picture_url": "https://tarmac.io/assets/members/pedro-neyeloff.png"
+  },
+  {
+    "name": "Rodrigo Dutra",
+    "role": "Developer",
+    "city": "Montevideo",
+    "picture_url": "https://tarmac.io/assets/members/rodrigo-dutra.png"
+  },
+  {
+    "name": "Rodrigo Machado",
+    "role": "Developer",
+    "city": "Montevideo",
+    "picture_url": "https://tarmac.io/assets/members/rodrigo-machado.png"
+  },
+  {
+    "name": "Rodrigo Ordeix",
+    "role": "Developer",
+    "city": "Montevideo",
+    "picture_url": "https://tarmac.io/assets/members/rodrigo-ordeix.png"
+  },
+  {
+    "name": "Sabrina Lattanzio",
+    "role": "Tester",
+    "city": "Montevideo",
+    "picture_url": "https://tarmac.io/assets/members/sabrina-lattanzio.png"
+  },
+  {
+    "name": "Seba Beceiro",
+    "role": "Developer",
+    "city": "Montevideo",
+    "picture_url": "https://tarmac.io/assets/members/seba-beceiro.png"
+  },
+  {
+    "name": "Sebastian Franchi",
+    "role": "Developer",
+    "city": "Montevideo",
+    "picture_url": "https://tarmac.io/assets/members/sebastian-franchi.png"
+  },
+  {
+    "name": "Sebastian Sierra",
+    "role": "Developer",
+    "city": "Montevideo",
+    "picture_url": "https://tarmac.io/assets/members/sebastian-sierra.png"
+  },
+  {
+    "name": "Visar Zejnullahu",
+    "role": "Developer + DevOps",
+    "city": "Macedonia",
+    "picture_url": "https://tarmac.io/assets/members/visar-zejnullahu.png"
+  },
+  {
+    "name": "Ana Tamayo",
+    "role": "Developer",
+    "city": "Montevideo",
+    "picture_url": "https://tarmac.io/assets/members/ana-tamayo.png"
+  },
+  {
+    "name": "Ricardo Umpierrez",
+    "role": "Developer",
+    "city": "Montevideo",
+    "picture_url": "https://tarmac.io/assets/members/ricardo-umpierrez.png"
+  },
+  {
+    "name": "Juan Manuel San Martin",
+    "role": "Developer",
+    "city": "Montevideo",
+    "picture_url": "https://tarmac.io/assets/members/juan-manuel san martin.png"
+  },
+  {
+    "name": "Nikos Kalenzis",
+    "role": "DevOps",
+    "city": "Macedonia",
+    "picture_url": "https://tarmac.io/assets/members/nikos-kalenzis.png"
+  },
+  {
+    "name": "Juan Manuel Antelo",
+    "role": "Developer",
+    "city": "Montevideo",
+    "picture_url": "https://tarmac.io/assets/members/juan-manuel antelo.png"
+  },
+  {
+    "name": "Gonzalo Puentes",
+    "role": "Developer",
+    "city": "Montevideo",
+    "picture_url": "https://tarmac.io/assets/members/gonzalo-puentes.png"
+  },
+  {
+    "name": "Igor Ivanovski",
+    "role": "Developer",
+    "city": "Macedonia",
+    "picture_url": "https://tarmac.io/assets/members/igor-ivanovski.png"
+  },
+  {
+    "name": "Gonzalo Gelos",
+    "role": "Developer",
+    "city": "Montevideo",
+    "picture_url": "https://tarmac.io/assets/members/gonzalo-gelos.png"
+  },
+  {
+    "name": "Martin Reyes",
+    "role": "Developer",
+    "city": "Montevideo",
+    "picture_url": "https://tarmac.io/assets/members/martin-reyes.png"
+  },
+  {
+    "name": "Nicolas Granja",
+    "role": "Developer",
+    "city": "Montevideo",
+    "picture_url": "https://tarmac.io/assets/members/nicolas-granja.png"
+  },
+  {
+    "name": "Luis Bartte",
+    "role": "Developer",
+    "city": "Montevideo",
+    "picture_url": "https://tarmac.io/assets/members/luis-bartte.png"
+  },
+  {
+    "name": "Daniel Lopez",
+    "role": "Developer",
+    "city": "Montevideo",
+    "picture_url": "https://tarmac.io/assets/members/daniel-lopez.png"
+  },
+  {
+    "name": "Martin Deandreis",
+    "role": "Developer",
+    "city": "Montevideo",
+    "picture_url": "https://tarmac.io/assets/members/martin-deandreis.png"
+  },
+  {
+    "name": "Antonio Nedanoski",
+    "role": "Developer",
+    "city": "Macedonia",
+    "picture_url": "https://tarmac.io/assets/members/antonio-nedanoski.png"
+  },
+  {
+    "name": "Filip Josimovski",
+    "role": "Developer",
+    "city": "Macedonia",
+    "picture_url": "https://tarmac.io/assets/members/filip-josimovski.png"
+  },
+  {
+    "name": "Nikola Popovski",
+    "role": "DevOps",
+    "city": "Macedonia",
+    "picture_url": "https://tarmac.io/assets/members/nikola-popovski.png"
+  },
+  {
+    "name": "Davor Klincarski",
+    "role": "Developer",
+    "city": "Macedonia",
+    "picture_url": "https://tarmac.io/assets/members/davor-klincarski.png"
+  },
+  {
+    "name": "Petar Risteski",
+    "role": "Developer",
+    "city": "Macedonia",
+    "picture_url": "https://tarmac.io/assets/members/petar-risteski.png"
+  },
+  {
+    "name": "Joaquin Cardozo",
+    "role": "Developer",
+    "city": "Montevideo",
+    "picture_url": "https://tarmac.io/assets/members/joaquin-cardozo.png"
+  },
+  {
+    "name": "Diego Curbelo",
+    "role": "Developer",
+    "city": "Montevideo",
+    "picture_url": "https://tarmac.io/assets/members/diego-curbelo.png"
+  },
+  {
+    "name": "Juan Boggia",
+    "role": "HR Head",
+    "city": "Montevideo",
+    "picture_url": "https://tarmac.io/assets/members/juan-boggia.png"
+  },
+  {
+    "name": "Petar Tofevski",
+    "role": "DevOps",
+    "city": "Macedonia",
+    "picture_url": "https://tarmac.io/assets/members/petar-tofevski.png"
+  }
+]

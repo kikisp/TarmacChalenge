@@ -1,0 +1,54 @@
+<h2 mat-dialog-title >{{tittle}}</h2>
+
+<mat-dialog-content fxLayout="column" [formGroup]="memberForm">
+    
+    <mat-form-field>
+
+        <input matInput
+                placeholder="Member name"
+               formControlName="name" required>
+               <mat-icon matSuffix>perm_identity</mat-icon>
+                <mat-error class="error-message" *ngIf="memberForm.get('name').hasError('required')">This is required</mat-error>
+
+
+    </mat-form-field>
+
+    <mat-form-field>
+
+        <input matInput
+                placeholder="Member role"
+               formControlName="role" required>
+               <mat-icon matSuffix>work</mat-icon>
+               <mat-error class="error-message" *ngIf="memberForm.get('role').hasError('required')">This is required</mat-error>
+
+    </mat-form-field>
+
+    <mat-form-field>
+
+        <input matInput
+                placeholder="Member city"
+               formControlName="city" required>
+               <mat-icon matSuffix>location_city</mat-icon>
+               <mat-error class="error-message" *ngIf="memberForm.get('city').hasError('required')">This is required</mat-error>
+
+    </mat-form-field>
+
+    <mat-form-field>
+
+        <input matInput
+                placeholder="Member avatar"
+               formControlName="picture_url" required>
+               <mat-icon matSuffix>face</mat-icon>
+               <mat-error class="error-message" *ngIf="memberForm.get('picture_url').hasError('required')">This is required</mat-error>
+
+    </mat-form-field>
+</mat-dialog-content>
+
+<mat-dialog-actions>
+    <button class="mat-raised-button"(click)="cancel()">Close</button>
+    <button [disabled]="!memberForm.valid"class="mat-raised-button mat-primary"(click)="save()">{{buttonLabel}}</button>
+    <span class="spacer"></span>
+    <button (click)="delete()" *ngIf="showDelete" mat-icon-button color="primary" aria-label="Delete">
+            <mat-icon>delete</mat-icon>
+    </button>
+</mat-dialog-actions>
