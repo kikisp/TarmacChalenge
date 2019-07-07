@@ -56,3 +56,4 @@ Frontend/package-lock.json
 Frontend/src/assets/.gitkeep
 Frontend/.vscode/*
 Frontend/.history/*
+Backend/.vscode/launch.json
